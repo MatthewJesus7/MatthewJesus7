@@ -1,4 +1,4 @@
 #  Hello! I’m @Matthew
-- looking for a job
+- looking for a job (trainee)
 - I’m currently learning git and github
-- Skillset
+- Skillset: HTML, CSS, JavaScript, Layout Design
