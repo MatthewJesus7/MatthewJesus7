@@ -1,38 +1,41 @@
-👋 Hi! I'm Matheus Costa (Matthew)
+# 👋 Hi! I'm Matheus Costa (Matthew)
 
-### 🎯 Objective
-I'm looking for a job opportunity to apply my frontend and mobile development skills, gain practical experience, and contribute to meaningful projects.
+## 🎯 Objective
+I'm seeking to grow as a full stack developer by applying my frontend and backend skills to projects that generate real impact and financial return.
 
-### 📂 Currently Working On
-- **React Native**: Learning mobile app development to expand my skill set.
+## 🏢 Currently Working At
+**Afternorth** – Working with their proprietary internal platform, gaining real-world experience in production environments.  
+Alongside this, I’m independently learning **Next.js** to deepen my full stack capabilities.
 
-### 💻 Technical Skills
+## 💻 Technical Skills
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS  
+- **React Ecosystem**: JSX, component-based design, React Router DOM  
+- **Mobile Development**: React Native (Expo + NativeWind)  
+- **Backend (learning)**: APIs, routing, and data management using Next.js  
+- **Firebase**: Authentication, Realtime Database, Firestore  
+- **Python**: Web scraping, scripting, file handling  
+- **Version Control**: Git & GitHub  
+- **UI/UX**: Functional and clean layout design  
 
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS.
-- **React**: Focused on component creation and JSX for dynamic interfaces.
-- **React Router DOM**: Used for managing navigation and page flow in SPAs.
-- **React Native**: Using Expo and NativeWind for mobile development.
-- **Firebase**: Firebase Database, Realtime Database, and authentication (Auth).
-- **Python**: Web scraping, file handling.
-- **Version Control**: Git, GitHub.
-- **Layout Design**: Creating layouts that balance functionality and aesthetics, optimized for user experience.
+## 🌱 Learning and Work Philosophy
+- **Progress > Perfection**: I prioritize fast delivery and refine over time.  
+- **Hands-on Learning**: I learn by building, testing, and improving.  
+- **Adaptability**: I quickly learn and use new tools, like Afternorth’s proprietary tech.
 
-### 🌱 Learning and Work Philosophy
+## 🎯 Career Goals
+- **Short-term**: Strengthen full stack skills and increase income through development work.  
+- **Long-term**: Become a senior developer and lead impactful software projects.
 
-- **"Done is better than perfect."** I prioritize fast delivery with continuous improvements, meeting tight deadlines while refining results.
-- **Hands-On Learning**: I believe in learning through practice by reviewing my own code, exploring documentation, and testing better solutions along the way.
+## 🤝 Open to Collaborations
+I'm open to:
+- Freelance work  
+- Paid opportunities  
+- Developer collaborations aligned with growth and financial return
 
-### 🎯 Career Goals
-
-- **Short-term**: Gain hands-on experience and earn income as a developer.
-- **Long-term**: Become a senior software developer and, eventually, a tech lead.
-
-### 🌍 Open to Collaborations
-I'm open to collaborating on open-source projects and, preferably, paid opportunities that align with my financial and professional development goals.
-
-### 🌐 Portfolio
-Check out some of my projects: [My Portfolio](https://portfolio-matheus-projects-30717bca.vercel.app/)
+## 🌐 Portfolio
+[👉 Check out my portfolio](https://your-portfolio-link.com)
 
 ---
 
-🚀 **Have questions or want to learn more about my work? Feel free to reach out!**
+🚀 **Let’s connect!**  
+Reach out if you want to collaborate, discuss code, or just exchange ideas.
